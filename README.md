@@ -9,7 +9,7 @@ Country = "🇮🇳"
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/@PythonProgramingIN-30302f?style=for-the-badge&logo=telegram)](https://t.me/PythonProgramingIN)
-[![mailid badge](https://img.shields.io/badge/LEGENDX-30302f?style=for-the-badge&logo=gmail)](mpaman7647@gmail.com)
+[![mailid badge](https://img.shields.io/badge/AmanPandey-30302f?style=for-the-badge&logo=gmail)](paman7647@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendxop&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
