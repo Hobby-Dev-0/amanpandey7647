@@ -4,13 +4,13 @@
 ```python
 Name = "AmanPandey7647"
 who_i_am = ['Coding = ❣️']
-Age = "15"
+Age = "14"
 Country = "🇮🇳"
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/@PythonProgramingIN-30302f?style=for-the-badge&logo=telegram)](https://t.me/PythonProgramingIN)
 [![mailid badge](https://img.shields.io/badge/AmanPandey-30302f?style=for-the-badge&logo=gmail)](paman7647@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=legendxop&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanPandey7647&label=Profile%20Views&color=orange&style=flat-square" alt="AmanPandey7647" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
