@@ -7,10 +7,6 @@ who_i_am = ['Coding = ❣️']
 Age = "15"
 Country = "🇮🇳"
 ```
-#### 
-(https://img.shields.io/badge/@AmanPandeyDeveloperIN-30302f?style=for-the-badge&logo=telegram)](https://t.me/AmanPandeyDeveloperIN)
-(https://img.shields.io/badge/AmanPandey-30302f?style=for-the-badge&logo=gmail)](paman7647@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanPandey7647&label=Profile%20Views&color=orange&style=flat-square" alt="AmanPandey7647" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
