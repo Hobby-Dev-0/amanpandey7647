@@ -8,13 +8,22 @@ Age = "15"
 Country = "🇮🇳"
 ```
 
+</p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AmanPandey7647)
+
+</details
+
+
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
 - ⚜️Most Of My Repositories Are For Telegram
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
-![AmanPandey7647 Git Stats](https://github-readme-stats.vercel.app/api?username=Amanpandey7647&include_all_commits=true&count_private=true)
+![AmanPandey7647 Git Stats](https://github-readme-stats.vercel.app/api?username=Amanpandey7647&include_all_commits=true&count_private=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey7647&layout=compact&theme=radical)](https://github.com/amanpandey7647)
 
