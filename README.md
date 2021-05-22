@@ -19,9 +19,8 @@ Country = "🇮🇳"
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
-- ⚜️Most Of My Repositories Are For Telegram
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
+<h4 align="center"><b>My GitHub Stats😇/b></h4>
 
 ![AmanPandey7647 Git Stats](https://github-readme-stats.vercel.app/api?username=Amanpandey7647&include_all_commits=true&count_private=true&theme=tokyonight)
 
