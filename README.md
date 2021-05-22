@@ -22,7 +22,7 @@ Country = "🇮🇳"
 
 <h4 align="center"><b>My GitHub Stats😇/b></h4>
 
-![AmanPandey7647 Git Stats](https://github-readme-stats.vercel.app/api?username=Amanpandey7647&include_all_commits=true&count_private=true&theme=tokyonight)
+![AmanPandey7647 Git Stats](https://github-readme-stats.vercel.app/api?username=AmanPandey7647&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey7647&layout=compact&theme=radical)](https://github.com/amanpandey7647)
 
