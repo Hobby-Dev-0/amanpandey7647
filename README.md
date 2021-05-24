@@ -24,6 +24,9 @@ Country = "🇮🇳"
 
 ![AmanPandey Git Stats](https://github-readme-stats.vercel.app/api?username=AmanPandey7647&show_icons=true&theme=tokyonight)
 
+![AmanPandey Git Stats](https://github-readme-stats.vercel.app/api?username=AmanPandey7647&include_all_commits=true&count_private=true&theme=highcontrast)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey7647&layout=compact&theme=radical)](https://github.com/amanpandey7647)
 
 ### Languages and Tools I Love❤️
