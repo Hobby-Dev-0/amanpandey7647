@@ -20,7 +20,7 @@ Country = "🇮🇳"
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
 
-![Aman Pandey Git Stats](https://github-readme-stats.vercel.app/api?username=amanpandey7647&include_all_commits=true&count_private=true&theme=highcontrast)
+![Aman Pandey Git Stats](https://github-readme-stats.vercel.app/api?username=amanpandey7647&include_all_commits=true&count_private=true&theme=tokyonight)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey7647&layout=compact&theme=radical)](https://github.com/amanpandey7647)
