@@ -8,6 +8,11 @@ Age = "15"
 Country = "🇮🇳"
 ```
 
+# GITHUB STATUS.
+- ![Profile views](https://gpvc.arturio.dev/AmanPandey7647)
+- [![GitHub followers](https://img.shields.io/github/followers/AmanPandey7647.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AmanPandey7647?tab=followers)
+
+
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
@@ -15,10 +20,6 @@ Country = "🇮🇳"
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=AmanPandey7647)
 
 </details
-# GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/AmanPandey7647)
-- [![GitHub followers](https://img.shields.io/github/followers/AmanPandey7647.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AmanPandey7647?tab=followers)
-
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
 
